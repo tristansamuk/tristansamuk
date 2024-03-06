@@ -4,6 +4,11 @@
 💻 Former SaaS salesperson<br>
 📚 PhD, English Literature<br>
 
+### Currently Working On
+
+📖 [Close Reader](http://www.github.com/tristansamuk/close-reader)<br>
+🎨 Personal portfolio site (coming soon)
+
 ### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
