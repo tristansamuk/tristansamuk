@@ -1,11 +1,8 @@
-### Hi there, I'm Tristan 👋<
+### Hello! I'm Tristan 👋
 
 👨‍💻 Fullstack developer <br>
 💻 Former SaaS salesperson<br>
 📚 PhD, English Literature<br>
-
-
-
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
