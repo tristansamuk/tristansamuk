@@ -10,7 +10,7 @@
 
 ### Portfolio
 
-📖 [Close Reader](http://www.github.com/tristansamuk/close-reader)<br>: 
+📖 [Close Reader](http://www.github.com/tristansamuk/close-reader)<br> 
 A collection over over a hundred classic poems with AI-generated analysis and a clean, responsive reading environment. 
 
 ### Skills
