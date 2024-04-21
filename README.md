@@ -7,6 +7,7 @@
 ### Currently Working On
 
 🎥 [Art Department](https://artdepartment.netlify.app)
+
 🎨 Personal portfolio site
 
 ### Portfolio
