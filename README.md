@@ -7,7 +7,7 @@
 ### Currently Working On
 
 
-🎨 Personal portfolio site
+🧮 Calc - a calculator web app built in React with three different colour schemes
 
 ### Portfolio
 
