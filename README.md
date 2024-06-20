@@ -7,7 +7,7 @@
 ### Currently Working On
 
 
-🧮 Calc - a calculator web app built in React with three different colour schemes
+🧮 Calc - A calculator web app with three different colour schemes
 
 ### Portfolio
 
