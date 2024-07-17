@@ -1,6 +1,6 @@
 ### Hello! I'm Tristan 👋
 
-👨‍💻 Fullstack developer <br>
+👨‍💻 Front end developer <br>
 💻 Former SaaS salesperson<br>
 📚 PhD, English Literature<br>
 
