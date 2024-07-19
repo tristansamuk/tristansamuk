@@ -6,6 +6,7 @@
 
 ### Currently Working On
 
+Front end at [Newton Crypto](https://www.newton.co/)
 
 🧮 Calc - A calculator web app with three different colour schemes
 
