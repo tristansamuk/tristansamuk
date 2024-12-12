@@ -1,18 +1,12 @@
 ### Hello! I'm Tristan 👋
 
-👨‍💻 Front end developer <br>
-💻 Former SaaS salesperson<br>
+👨‍💻 Front end developer at [Newton Crypto](https://www.newton.co/) <br>
+💻 Former SaaS AE<br>
 📚 PhD, English Literature<br>
-
-### Currently Working On
-
-🪙 Front end things at [Newton Crypto](https://www.newton.co/) <br>
-🧮 Calc - A calculator web app with three different colour schemes <br>
 
 ### Portfolio
 
 🎥 [Art Department](https://artdept.to) - A comprehensive guide to the roles, rates, and responsibilities for art department members on commercial non-union sets in Toronto <br>
-📖 [Close Reader](http://closereader.netlify.app) - A collection over over a hundred classic poems with AI-generated analysis in a clean, responsive reading environment.<br>
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
