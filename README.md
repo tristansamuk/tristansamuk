@@ -1,5 +1,5 @@
 ### Hello! I'm Tristan 👋
 
-👨‍💻 Front-end developer <br>
+👨‍💻 Full-stack developer <br>
 💻 Former SaaS AE<br>
 📚 PhD, English Literature<br>
